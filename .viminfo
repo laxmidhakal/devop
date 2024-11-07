@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1730636298,,"wq!"
+|2,0,1730974321,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,28 +25,48 @@
 # Registers:
 
 # File marks:
-'0  6  0  ~/sixthscript.sh
-|4,48,6,0,1730636298,"~/sixthscript.sh"
-'1  3  19  ~/fifthscript.sh
-|4,49,3,19,1730636197,"~/fifthscript.sh"
-'2  20  0  ~/fourthscript.sh
-|4,50,20,0,1730635894,"~/fourthscript.sh"
-'3  6  0  ~/thirdscript.sh
-|4,51,6,0,1730635578,"~/thirdscript.sh"
-'4  5  36  ~/secondscript.sh
-|4,52,5,36,1730635485,"~/secondscript.sh"
-'5  3  43  ~/firstscript.sh
-|4,53,3,43,1730635315,"~/firstscript.sh"
+'0  4  11  ~/firstscript.sh
+|4,48,4,11,1730974321,"~/firstscript.sh"
+'1  6  0  ~/sixthscript.sh
+|4,49,6,0,1730636298,"~/sixthscript.sh"
+'2  3  19  ~/fifthscript.sh
+|4,50,3,19,1730636197,"~/fifthscript.sh"
+'3  20  0  ~/fourthscript.sh
+|4,51,20,0,1730635894,"~/fourthscript.sh"
+'4  6  0  ~/thirdscript.sh
+|4,52,6,0,1730635578,"~/thirdscript.sh"
+'5  5  36  ~/secondscript.sh
+|4,53,5,36,1730635485,"~/secondscript.sh"
+'6  3  43  ~/firstscript.sh
+|4,54,3,43,1730635315,"~/firstscript.sh"
+'7  3  43  ~/firstscript.sh
+|4,55,3,43,1730635315,"~/firstscript.sh"
 
 # Jumplist (newest first):
+-'  4  11  ~/firstscript.sh
+|4,39,4,11,1730974321,"~/firstscript.sh"
+-'  3  43  ~/firstscript.sh
+|4,39,3,43,1730974300,"~/firstscript.sh"
 -'  6  0  ~/sixthscript.sh
 |4,39,6,0,1730636298,"~/sixthscript.sh"
+-'  6  0  ~/sixthscript.sh
+|4,39,6,0,1730636298,"~/sixthscript.sh"
+-'  1  0  ~/sixthscript.sh
+|4,39,1,0,1730636258,"~/sixthscript.sh"
 -'  1  0  ~/sixthscript.sh
 |4,39,1,0,1730636258,"~/sixthscript.sh"
 -'  3  19  ~/fifthscript.sh
 |4,39,3,19,1730636197,"~/fifthscript.sh"
 -'  3  19  ~/fifthscript.sh
 |4,39,3,19,1730636197,"~/fifthscript.sh"
+-'  3  19  ~/fifthscript.sh
+|4,39,3,19,1730636197,"~/fifthscript.sh"
+-'  3  19  ~/fifthscript.sh
+|4,39,3,19,1730636197,"~/fifthscript.sh"
+-'  1  0  ~/fifthscript.sh
+|4,39,1,0,1730636164,"~/fifthscript.sh"
+-'  1  0  ~/fifthscript.sh
+|4,39,1,0,1730636164,"~/fifthscript.sh"
 -'  1  0  ~/fifthscript.sh
 |4,39,1,0,1730636164,"~/fifthscript.sh"
 -'  1  0  ~/fifthscript.sh
@@ -59,6 +79,22 @@
 |4,39,20,0,1730635894,"~/fourthscript.sh"
 -'  20  0  ~/fourthscript.sh
 |4,39,20,0,1730635894,"~/fourthscript.sh"
+-'  20  0  ~/fourthscript.sh
+|4,39,20,0,1730635894,"~/fourthscript.sh"
+-'  20  0  ~/fourthscript.sh
+|4,39,20,0,1730635894,"~/fourthscript.sh"
+-'  20  0  ~/fourthscript.sh
+|4,39,20,0,1730635894,"~/fourthscript.sh"
+-'  20  0  ~/fourthscript.sh
+|4,39,20,0,1730635894,"~/fourthscript.sh"
+-'  1  0  ~/fourthscript.sh
+|4,39,1,0,1730635707,"~/fourthscript.sh"
+-'  1  0  ~/fourthscript.sh
+|4,39,1,0,1730635707,"~/fourthscript.sh"
+-'  1  0  ~/fourthscript.sh
+|4,39,1,0,1730635707,"~/fourthscript.sh"
+-'  1  0  ~/fourthscript.sh
+|4,39,1,0,1730635707,"~/fourthscript.sh"
 -'  1  0  ~/fourthscript.sh
 |4,39,1,0,1730635707,"~/fourthscript.sh"
 -'  1  0  ~/fourthscript.sh
@@ -83,6 +119,38 @@
 |4,39,6,0,1730635578,"~/thirdscript.sh"
 -'  6  0  ~/thirdscript.sh
 |4,39,6,0,1730635578,"~/thirdscript.sh"
+-'  6  0  ~/thirdscript.sh
+|4,39,6,0,1730635578,"~/thirdscript.sh"
+-'  6  0  ~/thirdscript.sh
+|4,39,6,0,1730635578,"~/thirdscript.sh"
+-'  6  0  ~/thirdscript.sh
+|4,39,6,0,1730635578,"~/thirdscript.sh"
+-'  6  0  ~/thirdscript.sh
+|4,39,6,0,1730635578,"~/thirdscript.sh"
+-'  6  0  ~/thirdscript.sh
+|4,39,6,0,1730635578,"~/thirdscript.sh"
+-'  6  0  ~/thirdscript.sh
+|4,39,6,0,1730635578,"~/thirdscript.sh"
+-'  6  0  ~/thirdscript.sh
+|4,39,6,0,1730635578,"~/thirdscript.sh"
+-'  6  0  ~/thirdscript.sh
+|4,39,6,0,1730635578,"~/thirdscript.sh"
+-'  1  0  ~/thirdscript.sh
+|4,39,1,0,1730635537,"~/thirdscript.sh"
+-'  1  0  ~/thirdscript.sh
+|4,39,1,0,1730635537,"~/thirdscript.sh"
+-'  1  0  ~/thirdscript.sh
+|4,39,1,0,1730635537,"~/thirdscript.sh"
+-'  1  0  ~/thirdscript.sh
+|4,39,1,0,1730635537,"~/thirdscript.sh"
+-'  1  0  ~/thirdscript.sh
+|4,39,1,0,1730635537,"~/thirdscript.sh"
+-'  1  0  ~/thirdscript.sh
+|4,39,1,0,1730635537,"~/thirdscript.sh"
+-'  1  0  ~/thirdscript.sh
+|4,39,1,0,1730635537,"~/thirdscript.sh"
+-'  1  0  ~/thirdscript.sh
+|4,39,1,0,1730635537,"~/thirdscript.sh"
 -'  1  0  ~/thirdscript.sh
 |4,39,1,0,1730635537,"~/thirdscript.sh"
 -'  1  0  ~/thirdscript.sh
@@ -131,6 +199,38 @@
 |4,39,5,36,1730635485,"~/secondscript.sh"
 -'  5  36  ~/secondscript.sh
 |4,39,5,36,1730635485,"~/secondscript.sh"
+-'  5  36  ~/secondscript.sh
+|4,39,5,36,1730635485,"~/secondscript.sh"
+-'  5  36  ~/secondscript.sh
+|4,39,5,36,1730635485,"~/secondscript.sh"
+-'  5  36  ~/secondscript.sh
+|4,39,5,36,1730635485,"~/secondscript.sh"
+-'  5  36  ~/secondscript.sh
+|4,39,5,36,1730635485,"~/secondscript.sh"
+-'  5  36  ~/secondscript.sh
+|4,39,5,36,1730635485,"~/secondscript.sh"
+-'  5  36  ~/secondscript.sh
+|4,39,5,36,1730635485,"~/secondscript.sh"
+-'  5  36  ~/secondscript.sh
+|4,39,5,36,1730635485,"~/secondscript.sh"
+-'  5  36  ~/secondscript.sh
+|4,39,5,36,1730635485,"~/secondscript.sh"
+-'  5  36  ~/secondscript.sh
+|4,39,5,36,1730635485,"~/secondscript.sh"
+-'  5  36  ~/secondscript.sh
+|4,39,5,36,1730635485,"~/secondscript.sh"
+-'  5  36  ~/secondscript.sh
+|4,39,5,36,1730635485,"~/secondscript.sh"
+-'  5  36  ~/secondscript.sh
+|4,39,5,36,1730635485,"~/secondscript.sh"
+-'  5  36  ~/secondscript.sh
+|4,39,5,36,1730635485,"~/secondscript.sh"
+-'  5  36  ~/secondscript.sh
+|4,39,5,36,1730635485,"~/secondscript.sh"
+-'  5  36  ~/secondscript.sh
+|4,39,5,36,1730635485,"~/secondscript.sh"
+-'  5  36  ~/secondscript.sh
+|4,39,5,36,1730635485,"~/secondscript.sh"
 -'  1  0  ~/secondscript.sh
 |4,39,1,0,1730635392,"~/secondscript.sh"
 -'  1  0  ~/secondscript.sh
@@ -143,104 +243,16 @@
 |4,39,1,0,1730635392,"~/secondscript.sh"
 -'  1  0  ~/secondscript.sh
 |4,39,1,0,1730635392,"~/secondscript.sh"
--'  1  0  ~/secondscript.sh
-|4,39,1,0,1730635392,"~/secondscript.sh"
--'  1  0  ~/secondscript.sh
-|4,39,1,0,1730635392,"~/secondscript.sh"
--'  1  0  ~/secondscript.sh
-|4,39,1,0,1730635392,"~/secondscript.sh"
--'  1  0  ~/secondscript.sh
-|4,39,1,0,1730635392,"~/secondscript.sh"
--'  1  0  ~/secondscript.sh
-|4,39,1,0,1730635392,"~/secondscript.sh"
--'  1  0  ~/secondscript.sh
-|4,39,1,0,1730635392,"~/secondscript.sh"
--'  1  0  ~/secondscript.sh
-|4,39,1,0,1730635392,"~/secondscript.sh"
--'  1  0  ~/secondscript.sh
-|4,39,1,0,1730635392,"~/secondscript.sh"
--'  1  0  ~/secondscript.sh
-|4,39,1,0,1730635392,"~/secondscript.sh"
--'  1  0  ~/secondscript.sh
-|4,39,1,0,1730635392,"~/secondscript.sh"
--'  3  43  ~/firstscript.sh
-|4,39,3,43,1730635315,"~/firstscript.sh"
--'  3  43  ~/firstscript.sh
-|4,39,3,43,1730635315,"~/firstscript.sh"
--'  3  43  ~/firstscript.sh
-|4,39,3,43,1730635315,"~/firstscript.sh"
--'  3  43  ~/firstscript.sh
-|4,39,3,43,1730635315,"~/firstscript.sh"
--'  3  43  ~/firstscript.sh
-|4,39,3,43,1730635315,"~/firstscript.sh"
--'  3  43  ~/firstscript.sh
-|4,39,3,43,1730635315,"~/firstscript.sh"
--'  3  43  ~/firstscript.sh
-|4,39,3,43,1730635315,"~/firstscript.sh"
--'  3  43  ~/firstscript.sh
-|4,39,3,43,1730635315,"~/firstscript.sh"
--'  3  43  ~/firstscript.sh
-|4,39,3,43,1730635315,"~/firstscript.sh"
--'  3  43  ~/firstscript.sh
-|4,39,3,43,1730635315,"~/firstscript.sh"
--'  3  43  ~/firstscript.sh
-|4,39,3,43,1730635315,"~/firstscript.sh"
--'  3  43  ~/firstscript.sh
-|4,39,3,43,1730635315,"~/firstscript.sh"
--'  3  43  ~/firstscript.sh
-|4,39,3,43,1730635315,"~/firstscript.sh"
--'  3  43  ~/firstscript.sh
-|4,39,3,43,1730635315,"~/firstscript.sh"
--'  3  43  ~/firstscript.sh
-|4,39,3,43,1730635315,"~/firstscript.sh"
--'  3  43  ~/firstscript.sh
-|4,39,3,43,1730635315,"~/firstscript.sh"
--'  3  43  ~/firstscript.sh
-|4,39,3,43,1730635315,"~/firstscript.sh"
--'  3  43  ~/firstscript.sh
-|4,39,3,43,1730635315,"~/firstscript.sh"
--'  3  43  ~/firstscript.sh
-|4,39,3,43,1730635315,"~/firstscript.sh"
--'  3  43  ~/firstscript.sh
-|4,39,3,43,1730635315,"~/firstscript.sh"
--'  3  43  ~/firstscript.sh
-|4,39,3,43,1730635315,"~/firstscript.sh"
--'  3  43  ~/firstscript.sh
-|4,39,3,43,1730635315,"~/firstscript.sh"
--'  3  43  ~/firstscript.sh
-|4,39,3,43,1730635315,"~/firstscript.sh"
--'  3  43  ~/firstscript.sh
-|4,39,3,43,1730635315,"~/firstscript.sh"
--'  3  43  ~/firstscript.sh
-|4,39,3,43,1730635315,"~/firstscript.sh"
--'  3  43  ~/firstscript.sh
-|4,39,3,43,1730635315,"~/firstscript.sh"
--'  3  43  ~/firstscript.sh
-|4,39,3,43,1730635315,"~/firstscript.sh"
--'  3  43  ~/firstscript.sh
-|4,39,3,43,1730635315,"~/firstscript.sh"
--'  3  43  ~/firstscript.sh
-|4,39,3,43,1730635315,"~/firstscript.sh"
--'  3  43  ~/firstscript.sh
-|4,39,3,43,1730635315,"~/firstscript.sh"
--'  3  43  ~/firstscript.sh
-|4,39,3,43,1730635315,"~/firstscript.sh"
--'  3  43  ~/firstscript.sh
-|4,39,3,43,1730635315,"~/firstscript.sh"
--'  1  0  ~/firstscript.sh
-|4,39,1,0,1730635254,"~/firstscript.sh"
--'  1  0  ~/firstscript.sh
-|4,39,1,0,1730635254,"~/firstscript.sh"
--'  1  0  ~/firstscript.sh
-|4,39,1,0,1730635254,"~/firstscript.sh"
--'  1  0  ~/firstscript.sh
-|4,39,1,0,1730635254,"~/firstscript.sh"
--'  1  0  ~/firstscript.sh
-|4,39,1,0,1730635254,"~/firstscript.sh"
--'  1  0  ~/firstscript.sh
-|4,39,1,0,1730635254,"~/firstscript.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/firstscript.sh
+	*	1730974317	0
+	"	4	11
+	^	4	12
+	.	4	10
+	+	3	44
+	+	4	10
 
 > ~/sixthscript.sh
 	*	1730636295	0
@@ -282,10 +294,3 @@
 	+	9	0
 	+	7	22
 	+	5	36
-
-> ~/firstscript.sh
-	*	1730635310	0
-	"	3	43
-	^	3	44
-	.	3	43
-	+	3	43
