@@ -1,5 +1,5 @@
 #!/bin/bash
-
+echo "hey"
 sudo groupadd -f student
 
 # Loop through each user and creating them with the 'student' group and /home/devops as their home directory
